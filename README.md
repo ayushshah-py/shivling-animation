@@ -44,7 +44,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 If you have any suggestions or issues, feel free to reach out!
 - Author:AYUSH SHAH   
 - Email: ayushs1904@gmail.com  
-- GitHub: [your-github-profile](https://github.com/ayushshah-py/shivling-animation/)
+- GitHub: [https://github.com/ayushshah-py](https://github.com/ayushshah-py/shivling-animation/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Har Har Mahadev! 🚩
