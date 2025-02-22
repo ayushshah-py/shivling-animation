@@ -12,7 +12,8 @@ This project features a beautifully animated Shivling created using only HTML an
 - Lightweight and optimized code
 
 ## 📷 Preview
-(You can include a screenshot or GIF of your animation here.)
+![Screenshot (169)](https://github.com/user-attachments/assets/19cc8648-28bc-4949-912b-8ceee307213c)
+
 
 ## 🛠 Technologies Used
 - HTML5
